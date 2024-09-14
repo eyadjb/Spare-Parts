@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409859963851",
+    "project_id": "carparts-ec734",
+    "storage_bucket": "carparts-ec734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409859963851:android:7cea86024954bb26a6944e",
+        "android_client_info": {
+          "package_name": "com.example.spareparts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sxFH0SOTZ2Igl6SU2BOkiFev32n0RTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
